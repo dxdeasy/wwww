@@ -1,0 +1,76 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+border-radius: 40px;
+background-color: rgb(52, 60,86);
+}
+.header{
+    padding-top: 46px;
+}
+.list{
+display: flex;
+justify-content: space-around;
+list-style: none;
+}
+.item{
+width: 200px;
+border-radius: 30px;
+background-color: red;
+text-align: center;
+padding: 14px 0;
+
+}
+.link{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 15px;
+}
+.hero{
+    padding: 68px;
+}
+.wrapper{
+    display: flex;
+    justify-content: space-around;
+}
+.black{
+    background-color: black;
+    color: white;
+    margin: 41px auto; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 264px;
+    height: 118px; 
+    border-radius: 40px;
+}
+.ota3{
+    display: flex;
+    justify-content: space-around;
+}
+.bola1{
+    width: 400px;
+    height: 200px;
+    background-color: red;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.nevara{
+    width: 300px;
+    height: 109px;
+    background-color: #61FF00;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+
+
